@@ -2,7 +2,7 @@
 <br/>
 <br/>
 <div align="center">
-  <h1>Hello, I'm Vallabh Patil, a Full-time Software Developer 👨‍💻</h1>
+  <h1>Hello, I'm Vallabh Patil, Software Developer 👨‍💻</h1>
 </div>
 
 <br/>
