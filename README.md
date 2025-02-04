@@ -1,7 +1,6 @@
 ### <div align="center">Hello, I'm Vallabh Patil, a Full-time Software Developer 👨‍💻
 
-Proficient in Python, React, Django, Java, TypeScript, Machine
-Learning and Deep Learning. 
+Proficient in Python, React, Django, Java, TypeScript, Machine Learning and Deep Learning. <br/>
 Actively seeking opportunities as a Full Stack Software Developer to leverage my expertise and embrace new technologies.🚀</div>  
   
 
@@ -12,6 +11,15 @@ Actively seeking opportunities as a Full Stack Software Developer to leverage my
   
 
 <br/>  
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=vallabhpatil777&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
 
 ## GitHub Achievements
 <div align="center">  
@@ -110,14 +118,6 @@ Actively seeking opportunities as a Full Stack Software Developer to leverage my
 #####   
   
 
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=vallabhpatil777&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
 
 
 ## Github Stats  
