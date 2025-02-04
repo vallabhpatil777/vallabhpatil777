@@ -10,6 +10,9 @@ Actively seeking opportunities as a Full Stack Software Developer to leverage my
 - 🌱 I’m currently exploring LLMs, AI Agents, and Blockchain  
   
 
+### Portfolio Link : https://vallabh-portfolio777.netlify.app  
+#####   
+  
 <br/>  
 <br/>  
 
@@ -114,18 +117,14 @@ Actively seeking opportunities as a Full Stack Software Developer to leverage my
 
 
 
-### Portfolio Link : https://vallabh-portfolio777.netlify.app  
-#####   
-  
-
 
 
 ## Github Stats  
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div style="display: flex; justify-content: between; align-items: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=vallabhpatil777&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vallabhpatil777&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vallabhpatil777&hide_border=true&layout=compact&langs_count=10" alt="Top Languages" />
 </div>
 <br/>
 
