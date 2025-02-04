@@ -1,5 +1,13 @@
-### <div align="center">Hello, I'm Vallabh Patil, a Full-time Software Developer 👨‍💻
 
+<br/>
+<br/>
+<div align="center">
+  <h1>Hello, I'm Vallabh Patil, a Full-time Software Developer 👨‍💻</h1>
+</div>
+
+<br/>
+<br/>
+<br/>
 Proficient in Python, React, Django, Java, TypeScript, Machine Learning and Deep Learning. <br/>
 Actively seeking opportunities as a Full Stack Software Developer to leverage my expertise and embrace new technologies.🚀</div>  
   
