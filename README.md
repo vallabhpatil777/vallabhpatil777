@@ -110,13 +110,13 @@ Actively seeking opportunities as a Full Stack Software Developer to leverage my
 <a href="https://github.com/vallabhpatil777" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/vallabh-patil-63248b144" target="_blank">
+<a href="https://linkedin.com/in/vallabh-patil-63248b144" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/https://www.facebook.com/vallabh.patil.92" target="_blank">
+<a href="https://www.facebook.com/vallabh.patil.92" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/vallabh_patil_777/" target="_blank">
+<a href="https://instagram.com/vallabh_patil_777/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
