@@ -37,9 +37,6 @@ Actively seeking opportunities as a Full Stack Software Developer to leverage my
 <img src="https://github-profile-trophy.vercel.app/?username=vallabhpatil777&theme=onedark&no-frame=true&column=6" alt="GitHub Trophies" />  
 </div>  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vallabhpatil777" alt="vallabhpatil777" /></a> </p>
-
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
