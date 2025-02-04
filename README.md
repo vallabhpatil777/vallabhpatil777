@@ -134,4 +134,3 @@ Actively seeking opportunities as a Full Stack Software Developer to leverage my
 <div align="center">  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vallabhpatil777&theme=dark&hide_border=true" alt="GitHub Streak" />  
 </div>  
- In this above code I do not table boundaries for both skill set and GitHub stats
