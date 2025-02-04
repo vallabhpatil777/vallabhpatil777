@@ -122,16 +122,14 @@ Actively seeking opportunities as a Full Stack Software Developer to leverage my
 
 ## Github Stats  
 
-<div>
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=vallabhpatil777&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=vallabhpatil777&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vallabhpatil777&hide_border=true&layout=compact" alt="Top Languages" />
+</div>
+<br/>
 
-
-
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vallabhpatil777&hide_border=true&layout=compact" align="left" /></div>
-
- </div>
-
-<br/>  
+<br/>
 
 ## GitHub Contribution Streak
 <div align="center">  
