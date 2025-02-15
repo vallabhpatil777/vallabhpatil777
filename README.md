@@ -12,7 +12,7 @@ Proficient in Python, React, Django, Java, TypeScript, Machine Learning and Deep
 Actively seeking opportunities as a Full Stack Software Developer to leverage my expertise and embrace new technologies.🚀</div>  
   
 
-- 🔭 I’m currently working on developing AI Agents in Blockchain Space  
+- 🔭 I’m currently working on developing AI Agents creating RAG utility microservice using Langchain, LLM and vector database 
   
 
 - 🌱 I’m currently exploring LLMs, AI Agents, and Blockchain  
