@@ -8,14 +8,11 @@
 <br/>
 <br/>
 <br/>
-Proficient in Python, React, Django, Java, TypeScript, Machine Learning and Deep Learning. <br/>
+Proficient in Python, Langchain, LangGraph, LLMs Finetuning, React, Django, Java, TypeScript, Machine Learning and Deep Learning. <br/>
 Actively seeking opportunities as a Full Stack Software Developer to leverage my expertise and embrace new technologies.🚀</div>  
   
 
-- 🔭 I’m currently working on developing AI Agents creating RAG utility microservice using Langchain, LLM and vector database 
-  
-
-- 🌱 I’m currently exploring LLMs, AI Agents, and Blockchain  
+- 🔭 I’m currently exploring AI Agents using Langchain, LangGraph, Multimodal LLM and vector databases  
   
 
 ### Portfolio Link : https://vallabh-portfolio777.netlify.app  
